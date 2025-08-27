@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(208, 225, 234);
+}
+h1{
+    color: chocolate;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    color: brown;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#ambiente{
+    width: 20%;
+}
